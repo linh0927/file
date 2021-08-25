@@ -31,7 +31,7 @@
 .iconfont {
   font-family: "iconfont" !important;
   font-size: 24px;
-  font-weight: 200;
+  font-weight: lighter;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
